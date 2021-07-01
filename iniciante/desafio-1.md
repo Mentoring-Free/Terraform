@@ -6,4 +6,6 @@ Trabalhar em um FORK deste repositório em seu usuário ou utilizar um repositó
 * Configurar um servidor AWS (recomenda-se o freetier) executando uma versão Ubuntu LTS.
 * Instalar e configurar qualquer software que você recomendaria em uma configuração de servidor padrão sob as perspectivas de segurança, desempenho, backup e monitorização.
 * Instalar e configurar o nginx para servir uma página web HTML estática.
-* Utilizar ferramentas de automatização como Ansible, Terraform ou AWS Cloudformation.
+
+
+# Utilizar ferramentas de automatização como Terraform se conseguir rode o Ansible para instalar os serviços. 
