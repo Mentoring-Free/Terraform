@@ -1,9 +1,5 @@
 # Mutirão Trraform
 
-## Referencias para resolver os desafios
-
-
-
 <p align="center">
 O objetivo é ajudar no desenvolvimento das suas Technical Skills.
 </p>
@@ -11,7 +7,7 @@ O objetivo é ajudar no desenvolvimento das suas Technical Skills.
 ---
 
 </br>
-
+## Referencias para resolver os desafios <br>
 ### Principais links:
 
 
